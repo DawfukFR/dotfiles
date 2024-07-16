@@ -55,7 +55,7 @@ alias ml4w-update='~/dotfiles/update.sh'
 # -----------------------------------------------------
 
 alias Qtile='startx'
-# Hyprland with Hyprland
+alias Hyprland='Hyprland'
 
 # -----------------------------------------------------
 # GIT

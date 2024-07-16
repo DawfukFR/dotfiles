@@ -2,8 +2,8 @@
 # Install dotfiles
 # ------------------------------------------------------
 
-if [ -d ~/dotfiles-versions/$version/alacritty ]; then
-    _installSymLink alacritty ~/.config/alacritty ~/dotfiles/alacritty/ ~/.config
+if [ -d ~/dotfiles-versions/$version/kitty ]; then
+    _installSymLink kitty ~/.config/kitty ~/dotfiles/kitty/ ~/.config
 fi
 if [ -d ~/dotfiles-versions/$version/vim ]; then
     _installSymLink vim ~/.config/vim ~/dotfiles/vim/ ~/.config
