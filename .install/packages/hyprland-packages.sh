@@ -17,6 +17,7 @@ packagesYay=(
     "eww"
     "hyprshade"
     "waypaper"
+    "mission-center"
 );
 
 # Remove previous electron config

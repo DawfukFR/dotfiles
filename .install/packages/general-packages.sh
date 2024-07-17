@@ -31,7 +31,7 @@ packagesPacman=(
     "tumbler" 
     "papirus-icon-theme"
     "breeze-icons"
-    "polkit-gnome"
+    "polkit-kde-agent"
     "brightnessctl"
     "gum"
     "man-pages"
